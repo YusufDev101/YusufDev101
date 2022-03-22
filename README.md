@@ -1,16 +1,45 @@
-### Hi there 👋
+### Yusuf Khan
 
-<!--
-**YusufDev101/YusufDev101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](images/undraw_progressive_app_m9ms.png)
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yusuf-khan-a6645b1b0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<img align="right" alt="Gif" src="images/undraw_Programming_re_kg9v.png" width="400" />
+
+I currently Work on
+
+- C# .Net
+- .Net Core 5.0 and 6.0
+- Xamarin Forms
+- Blazor
+- Javascript
+- Nodejs
+- Expo - React Native
+- SQL
+- MySql
+
+**Personal Info:**
+
+- I am Yusuf Khan | YusufDev101.
+- Software Developer
+- I currently work at Bidvest Data.
+- I also work on side projects in [Code Arena Hub](https://github.com/CodeArenaHub).
+
+</br>
+
+**My Projects Samples:**
+
+Xamarin Pokedex
+
+<p>
+  <img height="300em" src="images/Screenshot_20220322-121006.jpg" />
+  <img height="300em" src="images/Screenshot_20220322-121023.jpg" /> 
+</p>
+
+Xamarin Anime
+
+<p>
+  <img height="300em" src="images/Screenshot_20220322-121641.jpg" />
+</p>
