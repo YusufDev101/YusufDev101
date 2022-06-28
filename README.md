@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufdev101&label=Profile%20views&color=0e75b6&style=flat" alt="yusufdev101" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufdev101" alt="yusufdev101" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufdev101&theme=onedark" alt="yusufdev101" /></a> </p>
 
 - 🔭 I’m currently working on **C# .Net, .Net Core 5.0 and 6.0, Xamarin Forms, Blazor, Javascript, Nodejs, Expo - React Native, SQL, MySql, Google Cloud Platform**
 
