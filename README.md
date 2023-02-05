@@ -12,7 +12,7 @@
   <p> <img src="https://komarev.com/ghpvc/?username=yusufdev101&label=Profile%20views&color=0e75b6&style=flat" alt="yusufdev101" /> </p>
 </div>
 
-- 🔭 I’m currently working on **C# .Net, .Net Core 5.0 and 6.0, Xamarin Forms, Blazor, Javascript, Nodejs, Expo - React Native, SQL, MySql, Google Cloud Platform**
+- 🔭 I’m currently working on **C# .Net, .Net Core 5.0 and .Net 6.0, MAUI Applications, Blazor, Javascript, Nodejs, Expo - React Native, SQL, MySql, AWS, Google Cloud Platform**
 
 - 🌱 I’m currently learning **AWS, Cloud Computing, Automation, Python, Blazor**
 
