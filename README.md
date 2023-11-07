@@ -6,40 +6,61 @@
 <h1 align="center"><span>
  <img height="30em" src="images/demonSlayer.png" /></span> Yusuf Khan <span>
  <img height="30em" src="images/fairytail.png" /></span></h1>  
-<h3 align="center">A passionate Full Stack developer from South Africa</h3>
+<h3 align="center">A Full Stack Developer from South Africa</h3>
 
 <div align="center">
   <p> <img src="https://komarev.com/ghpvc/?username=yusufdev101&label=Profile%20views&color=0e75b6&style=flat" alt="yusufdev101" /> </p>
 </div>
 
-- 🔭 I’m currently working on **C# .Net, .Net Core 5.0 and .Net 6.0, MAUI Applications, Blazor, Javascript, Nodejs, Expo - React Native, SQL, MySql, AWS, Google Cloud Platform**
+```csharp
+private void YusufKhan()
+{
+  try {
+    string const CurrentOrg = "Bidvest Data";
 
-- 🌱 I’m currently learning **AWS, Cloud Computing, Automation, Python, Blazor**
+    List<string> Code = new {
+      "csharp", "javascript", "HTML", "CSS", "Java"
+    };
 
-- 💬 Ask me about **c#, Asp, .net core, sql**
+    List<string> Tools = new {
+      "visual studio", "visual studio code", "sql", "aws", "google cloud", "Automation"
+    };
 
-- 💬 I currently work at **Bidvest Data**
+    List<string> Frameworks = new {
+      "blazor", ".net 6", ".net 7", ".net core", "react", "react native", "maui applications", "web api", "nodejs"
+    };
 
-- 💬 I also work on side projects in [Code Arena Hub](https://github.com/CodeArenaHub).
+      List<string> Projects = new {
+      "Code Arena Hub", "Nebula System Solutions"
+    };
+  }
+  catch(Exception ex)
+  {
+      Console.WriteLine(ex.Message)
+  }
+}
+```
 
-<div align="center">
-<a href="https://github.com/yusufdev101"><img alt="Saravana Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=yusufdev101&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YusufDev101&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yusufdev101&theme=one-dark)](https://github.com/Yusufdev101/github-readme-activity-graph)
+  <div align="center">
+    <a>
+      <img align="center" src="images/demonslayer.gif" style="margin-top: 10px" />
+    </a>
 
 </div>
 
+ <div align="center" style="margin-top: 20px">
+
 **My Projects Samples:**
 
-<p>
-  <img height="200em" src="images/Screenshot_20220328-162158_PokemonNews.jpg" />
-  <img height="200em" src="images/Screenshot_20220328-162206_PokemonNews.jpg" />
-  <img height="200em" src="images/Screenshot_20220328-162218_PokemonNews.jpg" />
-  <img height="200em" src="images/Screenshot_20220329-090349.jpg" />
-  <img height="200em" src="images/Screenshot_20220329-090358.jpg" />
-  <img height="200em" src="images/Screenshot_20220329-090425.jpg" />
-  <img height="200em" src="images/Screenshot_20220322-121006.jpg" />
-  <img height="200em" src="images/Screenshot_20220322-121641.jpg" />
-</p>
+  <p>
+    <img height="200em" src="images/Screenshot_20220328-162158_PokemonNews.jpg" />
+    <img height="200em" src="images/Screenshot_20220328-162206_PokemonNews.jpg" />
+    <img height="200em" src="images/Screenshot_20220328-162218_PokemonNews.jpg" />
+    <img height="200em" src="images/Screenshot_20220329-090349.jpg" />
+    <img height="200em" src="images/Screenshot_20220329-090358.jpg" />
+    <img height="200em" src="images/Screenshot_20220329-090425.jpg" />
+    <img height="200em" src="images/Screenshot_20220322-121006.jpg" />
+    <img height="200em" src="images/Screenshot_20220322-121641.jpg" />
+  </p>
+
+</div>
