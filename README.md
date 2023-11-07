@@ -23,7 +23,6 @@
 - 💬 I also work on side projects in [Code Arena Hub](https://github.com/CodeArenaHub).
 
 <div align="center">
-<a href="https://github.com/yusufdev101"><img alt="Yusuf Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdev101&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
 <a href="https://github.com/yusufdev101"><img alt="Saravana Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=yusufdev101&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YusufDev101&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
