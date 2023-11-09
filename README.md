@@ -16,7 +16,7 @@
 private void YusufKhan()
 {
   try {
-    string const CurrentOrg = "Bidvest Data";
+    const string CurrentOrg = "Bidvest Data";
 
     List<string> Code = new {
       "csharp", "javascript", "HTML", "CSS", "Java"
