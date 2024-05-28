@@ -4,8 +4,8 @@
 <br />
 </div>
 <h1 align="center"><span>
- <img height="30em" src="images/fairytail.png" /></span></h1>  
  <img height="30em" src="images/demonSlayer.png" /></span> Yusuf Khan <span>
+ <img height="30em" src="images/fairytail.png" /></span></h1>  
 <h3 align="center">A Full Stack Developer from South Africa</h3>
 
 <div align="center">
