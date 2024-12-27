@@ -16,26 +16,32 @@
 private void YusufKhan()
 {
   try {
+    // Current employement. 
     const string CurrentOrg = "Bidvest Data";
 
+    // Current code languages.
     List<string> Code = new {
       "csharp", "javascript", "HTML", "CSS", "Java"
     };
 
+    // Current tech being used. 
     List<string> Tools = new {
       "visual studio", "visual studio code", "sql", "aws", "google cloud", "Automation"
     };
 
+    // Current frameworks being used.
     List<string> Frameworks = new {
       "blazor", ".net 6", ".net 7", ".net core", "react", "react native", "maui applications", "web api", "nodejs"
     };
 
+      // Personal projects.
       List<string> Projects = new {
       "Code Arena Hub", "Nebula System Solutions"
     };
   }
   catch(Exception ex)
   {
+      // Log the error.
       Console.WriteLine(ex.Message)
   }
 }
