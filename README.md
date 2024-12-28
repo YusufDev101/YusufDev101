@@ -31,7 +31,7 @@ private void YusufKhan()
 
     // Current frameworks being used.
     List<string> Frameworks = new {
-      "blazor", ".net 6", ".net 7", ".net core", "react", "react native", "maui applications", "web api", "nodejs"
+      "blazor", ".net 6", ".net 7", ".net 8", ".net 9", ".net core", "react", "react native", "maui applications", "web api", "nodejs"
     };
 
       // Personal projects.
