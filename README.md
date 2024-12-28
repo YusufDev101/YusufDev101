@@ -34,10 +34,12 @@ private void YusufKhan()
       "blazor", ".net 6", ".net 7", ".net 8", ".net 9", ".net core", "react", "react native", "maui applications", "web api", "nodejs"
     };
 
-      // Personal projects.
-      List<string> Projects = new {
+    // Personal projects.
+    List<string> Projects = new {
       "Code Arena Hub", "Nebula System Solutions"
     };
+
+   // TODO: Add in AI experience. 
   }
   catch(Exception ex)
   {
