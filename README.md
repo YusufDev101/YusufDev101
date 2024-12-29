@@ -39,7 +39,11 @@ private void YusufKhan()
       "Code Arena Hub", "Nebula System Solutions"
     };
 
-   // TODO: Add in AI experience. 
+   // TODO: Add in AI experience.
+   // LLM
+   // AWS Sagemaker
+   // Hugging Face
+   // LM Studio
   }
   catch(Exception ex)
   {
